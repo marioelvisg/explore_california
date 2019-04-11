@@ -1,0 +1,38 @@
+commit 293c20d84f8031f79645d8b5f29789f6a6ecb9ea
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Thu Apr 11 10:47:17 2019 -0400
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+
+    This reverts commit f1a21e0ef3079e891ff8e5fef94e3e3cd6eaed7f.
+
+commit f1a21e0ef3079e891ff8e5fef94e3e3cd6eaed7f
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Wed Apr 10 12:10:48 2019 -0400
+
+    Rearrange the items to bring on an outdoor trip
+
+commit a2de1d7742269648a482b06d8ed8c13aee33e03a
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Wed Apr 10 11:08:20 2019 -0400
+
+    Rename Bacpack Cal file for clarity
+
+commit e82050ab269fdc37268d1663e0ab9d44d9fedc67
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Wed Apr 10 11:04:20 2019 -0400
+
+    Rename Bacpack Cal file for clarity
+
+commit 2ffbfa88b9c9e4eaa1d26928c08b33045bdb70d1
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Wed Apr 10 09:00:23 2019 -0400
+
+    Changed 24 hour support number to 4314
+
+commit 7ea1a255eed534507eaba1dcaf5424effdc848f9
+Author: Mario Elvis <marioelvisg@gmail.com>
+Date:   Tue Apr 9 14:57:37 2019 -0400
+
+    Initial commit
+(END)
